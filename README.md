@@ -26,4 +26,7 @@ In Javascript file I declared current day, date and time using Dayjs - by using 
 
 
  Screenshot of the deployed application :
+
+ ![image](https://github.com/harsim3221/Daily-Scheduler/assets/149484142/3bc93ed5-9a7e-4760-be65-dfa6713fa16e)
+
  
