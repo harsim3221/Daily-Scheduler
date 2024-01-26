@@ -18,3 +18,10 @@ In Javascript file I declared current day, date and time using Dayjs - by using 
  https://day.js.org/docs/en/display/format
 
  https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
+
+ Link of the Deployed Application:
+
+
+ Screenshot of the Deployed Application:
+ 
