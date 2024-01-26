@@ -22,7 +22,7 @@ In Javascript file I declared current day, date and time using Dayjs - by using 
 
  Link to the deployed application :
  
-
+ https://harsim3221.github.io/Daily-Scheduler/
 
 
  Screenshot of the deployed application :
