@@ -20,8 +20,10 @@ In Javascript file I declared current day, date and time using Dayjs - by using 
  https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
 
- Link of the Deployed Application:
+ Link to the deployed application :
+ 
 
 
- Screenshot of the Deployed Application:
+
+ Screenshot of the deployed application :
  
